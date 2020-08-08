@@ -8,4 +8,5 @@
   ---
   ## Source
   
-  The DataSet used for the recommender system is from *Netflix* and the Google Drive link can be found [here](https://www.kaggle.com/netflix-inc/netflix-prize-data) 
+  The DataSet used for the recommender system is from *Netflix*(via [Kaggle](https://www.kaggle.com/)) and the Google Drive link can be found [here](https://www.kaggle.com/netflix-inc/netflix-prize-data). 
+  
